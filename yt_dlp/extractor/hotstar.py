@@ -66,7 +66,7 @@ class HotStarBaseIE(InfoExtractor):
                 query_name: video_id,
                 'tas': 10000,
             }, headers={
-                'x-country-code': 'IN',
+                'x-country-code': 'ID',
                 'x-platform-code': 'PCTV',
             })
 
